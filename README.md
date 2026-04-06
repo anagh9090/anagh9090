@@ -3,6 +3,7 @@
 ### Founder & CEO of AntherOS Technologies | Systems Architect | Technical Author
 
 I am a 12-year-old self-taught developer and systems architect based in Agra, India. I specialize in low-level systems engineering, custom Linux distributions, and building performance-oriented software. 
+I am currently studying in **Gayatri Public School** in class **7**.
 
 ---
 
@@ -15,9 +16,9 @@ I am the lead developer of **AntherOS**, a custom Linux distribution focused on 
 I am the author of **"Linux4Kids"**, a 100+ page technical guide designed to introduce the next generation to the power of the Linux kernel and terminal-centric workflows.
 
 ### 🌐 Anther Ecosystem
-* **AntherListen:** A custom-built, high-performance music player.
-* **AntherBrowser:** A lightweight Android browser built using WebView for maximum resource efficiency.
-
+* **AntherListen:** A custom-built, high-performance music player. [View AntherListen](https://github.com/anagh9090/AntherListen)
+* **AntherBrowser:** A lightweight Android browser built using WebView for maximum resource efficiency. (Coming soon)
+* **AntherAI:** An AI, made by me, based on llama-3 and llama4, capable of both text and image I/O. [View AntherAI](tinyurl.com/AntherAI)
 ---
 
 ## 🛠️ Technical Stack
