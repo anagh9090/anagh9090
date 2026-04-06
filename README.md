@@ -19,13 +19,14 @@ I am the author of **"Linux4Kids"**, a 100+ page technical guide designed to int
 * **AntherListen:** A custom-built, high-performance music player. [View AntherListen](https://github.com/anagh9090/AntherListen)
 * **AntherBrowser:** A lightweight Android browser built using WebView for maximum resource efficiency. (Coming soon)
 * **AntherAI:** An AI, made by me, based on llama-3 and llama4, capable of both text and image I/O. [View AntherAI](tinyurl.com/AntherAI)
+* **AntherClient:** A minecraft ultily mod, based on top of **Meteor** *Note: Only for Minecraft Java Edition*. [View AntherClient](https://github.com/anagh9090/AntherClient)
 ---
 
 ## 🛠️ Technical Stack
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Python, Rust, C, Bash, Kotlin, Assembly, Java |
+| **Languages _worked with_** | Python, Rust, C, Bash, Kotlin, Assembly, Java, C++, C#, Lua, Lua, HTML, JavaScript |
 | **Systems** | Linux Kernel Customization, Cubic, Penguin's Eggs, Debian/Ubuntu Base |
 | **Workflow** | Neovim, Tmux, Zsh, Git, Gradle |
 | **Engineering** | Technical Architecture, Memory Management, Redstone Engineering (Minecraft) |
