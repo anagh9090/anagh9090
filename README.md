@@ -31,12 +31,15 @@ I am the author of **"Linux4Kids"**, a 100+ page technical guide designed to int
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Anagh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagh9090&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagh9090&layout=compact&theme=tokyonight)
+![Anagh's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anagh9090&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anagh9090&layout=compact&theme=tokyonight)
 
 ---
+
 
 ## ⚡ Fun Facts
 * 🏗️ **Redstone Specialist:** I spend a lot of time building complex technical contraptions and machinery in Minecraft.
