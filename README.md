@@ -54,3 +54,5 @@ I am the author of **"Linux4Kids"**, a 100+ page technical guide designed to int
 ## 📫 Connect with Me
 * **Website:** [AntherOS Official](https://antheros.org) (Coming Soon)
 * **Organization:** [AntherOS Technologies](https://github.com/AntherOS-Technologies)
+
+<kbd>Make sure to view my repos</kbd>
