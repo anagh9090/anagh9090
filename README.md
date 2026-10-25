@@ -20,13 +20,12 @@
 <img src="assets/stack.svg" alt="Languages: Python, Rust, C, Bash, Kotlin, Assembly, Java, C++, C#, Lua, HTML, JavaScript. Systems: Linux Kernel Customization, Cubic, Penguin’s Eggs, Debian/Ubuntu Base. Workflow: Neovim, Tmux, Zsh, Git, Gradle. Engineering: Technical Architecture, Memory Management, Redstone Engineering (Minecraft)." width="100%">
 
 <img src="assets/h-activity.svg" alt="Contribution activity" width="100%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anagh9090&amp;bg_color=050A10&amp;color=A8F3FB&amp;line=00B8D4&amp;point=00FFFF&amp;area=true&amp;area_color=00A3BF&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="Contribution activity graph for anagh9090" width="100%">
+<img src="https://raw.githubusercontent.com/anagh9090/anagh9090/output/snake.svg" alt="Animated snake eating the contribution graph of anagh9090" width="100%">
 
 <img src="assets/h-stats.svg" alt="GitHub stats" width="100%">
 <p align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anagh9090&langs_count=20&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anagh9090&langs_count=20&theme=dark_github)
-  
+  <a href="https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub stats for anagh9090"></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anagh9090&langs_count=20&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=anagh9090&langs_count=20&theme=dark_github" alt="Top languages for anagh9090"></a>
 </p>
 
 <img src="assets/h-beyond.svg" alt="Beyond the code" width="100%">
