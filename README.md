@@ -24,8 +24,9 @@
 
 <img src="assets/h-stats.svg" alt="GitHub stats" width="100%">
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anagh9090&amp;show_icons=true&amp;hide_border=true&amp;bg_color=08131D&amp;title_color=00D4E6&amp;text_color=A8F3FB&amp;icon_color=00D4E6&amp;ring_color=00D4E6" alt="GitHub stats for anagh9090">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anagh9090&amp;layout=compact&amp;hide_border=true&amp;bg_color=08131D&amp;title_color=00D4E6&amp;text_color=A8F3FB" alt="Top languages for anagh9090">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anagh9090&langs_count=20&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anagh9090&langs_count=20&theme=dark_github)
+  
 </p>
 
 <img src="assets/h-beyond.svg" alt="Beyond the code" width="100%">
