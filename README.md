@@ -19,9 +19,6 @@
 <img src="assets/h-stack.svg" alt="Technical stack" width="100%">
 <img src="assets/stack.svg" alt="Languages: Python, Rust, C, Bash, Kotlin, Assembly, Java, C++, C#, Lua, HTML, JavaScript. Systems: Linux Kernel Customization, Cubic, Penguin’s Eggs, Debian/Ubuntu Base. Workflow: Neovim, Tmux, Zsh, Git, Gradle. Engineering: Technical Architecture, Memory Management, Redstone Engineering (Minecraft)." width="100%">
 
-<img src="assets/h-activity.svg" alt="Contribution activity" width="100%">
-<img src="https://raw.githubusercontent.com/anagh9090/anagh9090/output/snake.svg" alt="Animated snake eating the contribution graph of anagh9090" width="100%">
-
 <img src="assets/h-stats.svg" alt="GitHub stats" width="100%">
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api?username=anagh9090&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub stats for anagh9090"></a>
