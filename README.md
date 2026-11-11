@@ -5,7 +5,7 @@
 </div>
 
 <img src="assets/h-about.svg" alt="About" width="100%">
-<img src="assets/about.svg" alt="I’m a 12-year-old self-taught developer and systems architect based in India. I specialize in low-level systems engineering, custom Linux distributions, and performance-oriented software." width="100%">
+<img src="assets/about.svg" alt="I’m a 13-year-old self-taught developer and systems architect based in India. I specialize in low-level systems engineering, custom Linux distributions, and performance-oriented software." width="100%">
 
 <img src="assets/h-projects.svg" alt="Projects and ventures" width="100%">
 <img src="assets/proj-antheros.svg" alt="AntherOS: A custom Linux distribution focused on efficiency and developer experience. I’m the lead developer." width="100%">
